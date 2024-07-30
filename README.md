@@ -9,6 +9,6 @@ Recent advances in high-throughput sequencing and proteomics have enabled the us
 
 
 
-![frameworkV1](D:\code\Ra_Code\Bio-pathway-Activity-Analysis\frameworkV1.png)
+![frameworkV1](https://github.com/ddxsg24/Bio-pathway-Activity-Analysis/blob/main/frameworkV1.png)
 
 ​                                                                Framework
